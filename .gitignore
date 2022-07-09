@@ -1,0 +1,11 @@
+# Ignore these files due to size or version
+SDL2-devel*.zip
+SDL*.zip
+SDL2_ttf-2.0.18*
+*pcap*.exe
+WpcapSrc_4.1.3.zip.zip
+WpdPack_4_1_2.zip
+*libpng-v1.6.37
+DXSDK_Jun10.exe
+freetype*.tar.gz
+SDL2_ttf-2.0.18-win32-x86.zip
